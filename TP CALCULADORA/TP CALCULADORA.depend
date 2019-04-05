@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554425356 source:c:\users\hp\desktop\nueva carpeta\laconchabiendetumadre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreria.h"
+
+1554424714 c:\users\hp\desktop\nueva carpeta\laconchabiendetumadre\libreria.h
+
+1554425308 source:c:\users\hp\desktop\nueva carpeta\laconchabiendetumadre\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreria.h"
+
